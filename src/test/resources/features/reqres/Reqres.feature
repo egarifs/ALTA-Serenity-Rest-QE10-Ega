@@ -9,6 +9,7 @@ Feature: Reqres API Automation Testing QA-10
       | page |
       | 1    |
       | 1    |
+
     @Latihan
     Scenario: Post create new user with valid json
       Given Post create user with valid json

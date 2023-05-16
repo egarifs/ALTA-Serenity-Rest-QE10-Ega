@@ -11,7 +11,7 @@ public class ReqresAPI {
 
     public static final String DIR = System.getProperty("user.dir");
 
-    public static String REQ_BODY_DIR = DIR+"src/test/resources/features/JSON/JSONSchema";
+    public static String REQ_BODY_DIR = DIR+"src/test/resources/features/JSON/ReqBody";
 
     public static String GET_LIST_USERS = BASE_URL+"/api/users?page={page}";
 
